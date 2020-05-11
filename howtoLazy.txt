@@ -1,0 +1,3 @@
+i know you are lazy when you know how to use it. so i made some changes to make it quick start.
+i putted all command on bat files so you just double click on bat file and it will start atutomatically no need to use command prompt on windows.
+NOTE: only windows support bat files, so if you are using windows its lazy time.
